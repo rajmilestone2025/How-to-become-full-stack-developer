@@ -3,6 +3,7 @@ Full Stack Developers are in demand, and there’s a tech industry boom. Full st
 What Exactly is a Full Stack Developer?
 Full Stack Developer Design and develop complete web applications, client-side (front-end) and server-side (back-end). They seamlessly integrate different technologies for a smooth user experience.
 https://www.tumblr.com/educationalblogmit/779264496285958144/how-to-become-a-full-stack-developer?source=share
+
 Key Responsibilities
 
 Build those front-end UI using HTML, CSS and JavaScript OR use frameworks like React or Angular for development.
